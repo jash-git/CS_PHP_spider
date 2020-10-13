@@ -1,0 +1,9 @@
+C:\Users\jashliao\Desktop\money\money\bin\Debug\money.exe.config
+C:\Users\jashliao\Desktop\money\money\bin\Debug\money.exe
+C:\Users\jashliao\Desktop\money\money\bin\Debug\money.pdb
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.Form1.resources
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.Properties.Resources.resources
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.exe
+C:\Users\jashliao\Desktop\money\money\obj\Debug\money.pdb

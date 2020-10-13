@@ -1,0 +1,354 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<script src="/z/js/jquery.djjs" type="text/javascript"></script>
+<script language="JavaScript" src="/z/js/jsFunction.djjs"></script>
+<script language="JavaScript" src="/z/js/isSpecialKind.djjs"></script>
+<script language="JavaScript" src="/z/js/mdj.js"></script>
+<script src="/z/js/Applet2Canvas.djjs" type="text/javascript"></script><!--[if IE]><script type="text/javascript" src="/DJJSLib/GetDJJSLibURL.djjs?a=1"></script><![endif]--><script src="/DJJSLib/GetDJJSLibURL.djjs?a=2&amp;cvsVer=" type="text/javascript"></script><script src="/DJJSLib/GetDJJSLibURL.djjs?a=3&amp;cvsVer=" type="text/javascript"></script><link href="/DJJSLib/GetDJJSLibURL.djcss?a=4&amp;cvsVer=" rel="Stylesheet" type="text/css"><script src="/DJJSLib/GetDJJSLibURL.djjs?a=5&amp;cvsVer=" type="text/javascript"></script><script src="/DJJSLib/GetDJJSLibURL.djjs?a=6&amp;cvsVer=" type="text/javascript"></script><link href="/DJJSLib/GetDJJSLibURL.djcss?a=7&amp;cvsVer=" rel="Stylesheet" type="text/css"><script src="/DJJSLib/GetDJJSLibURL.djjs?a=8" type="text/javascript" &cvsver=""></script><script src="/DJJSLib/GetDJJSLibURL.djjs?a=9&amp;cvsVer=" type="text/javascript"></script><link href="/DJJSLib/GetDJJSLibURL.djcss?a=10&amp;cvsVer=" rel="Stylesheet" type="text/css"><script src="/DJJSLib/GetDJJSLibURL.djjs?a=11&amp;cvsVer=" type="text/javascript"></script><script src="/DJJSLib/GetDJJSLibURL.djjs?a=12&amp;cvsVer=" type="text/javascript"></script><link href="/DJJSLib/GetDJJSLibURL.djcss?a=13&amp;cvsVer=" rel="Stylesheet" type="text/css"><script src="/z/JS/MbChart.Config[A2C].djjs" type="text/javascript"></script><link href="/z/JS/FundView[A2C].djcss" rel="Stylesheet" type="text/css">
+<script src="/z/js/DJWebGraph.djjs" type="text/javascript"></script>
+<script src="/z/js/xml2jsonJS.djjs" type="text/javascript"></script>
+<script src="/z/js/json2xmlJS.djjs" type="text/javascript"></script>
+<script src="/z/js/json2.djjs" type="text/javascript"></script>
+<script src="/z/js/GenUpDownJS.djjs" type="text/javascript"></script>
+<link href="/z/js/mdj.css" rel="stylesheet" type="text/css">
+<title>個股K線圖-00631L</title>
+<script language="JavaScript"><!--
+CheckMenu(4, '00631L');
+function chkSetUpMenu(){ 
+	if (typeof(SetUpMenu) == 'function'){
+		SetUpMenu(4,'00631L');
+}
+	else
+		setTimeout(function(){chkSetUpMenu();},5000);
+}
+// --></script></head>
+
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<div id="SysJustIFRAMEDIV" style="height: 650px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top" colspan="3">
+<script language="javascript" src="/z/js/SU.js"></script><script language="javascript" src="/z/js/DJDecoder.js"></script>
+
+<script language="javascript"><!--
+ chkSetUpMenu();
+//--></script><script language="javascript" src="/ASP/SetCookie.asp?A=MoneydjStk&amp;B=00631L"></script>
+
+</td></tr>
+<tr><td align="left" valign="top">
+<script language="javascript" src="/z/js/SL.js"></script><script language="javascript" src="/Z/js/FubonMenu.js"></script><link href="/css/fubon2008.css" rel="stylesheet" type="text/css">
+<link href="/css/tail.css" rel="stylesheet" type="text/css">
+<link href="/css/titleblock.css" rel="stylesheet" type="text/css">
+<link href="/css/topmenu.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+body
+
+{
+
+	background-image	: url("/z/images/bodybg.jpg")!important;
+
+	background-repeat	: repeat-y;
+
+}
+
+.SubMenuNoDisp
+
+{
+
+	display	: none;
+
+}
+
+.SubMenuDisp
+
+{
+
+	display : block;
+
+}
+
+.UpperMenu
+
+{
+
+	COLOR : #616161;
+
+	FONT-SIZE : 9pt;
+
+	cursor : pointer;
+
+}
+
+</style>
+
+<div id="SysJustMenuContainer"><table bordercolor="red" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img width="40" height="10" src="/images/TransDot.gif" border="0"></td><td><table width="214" bordercolor="blue" border="0" cellspacing="2" cellpadding="2"><tbody><tr><td height="10" align="Center" colspan="2"><img width="214" height="10" src="/images/TransDot.gif" border="0"></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_bg" valign="bottom"><a href="/Z/ZC/ZCS/ZCS_00631L.djhtm">所屬產業</a></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_bg" valign="bottom"><a href="/Z/ZC/ZC0/ZC00/ZC00_00631L.djhtm">公司互動</a></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_bg" valign="bottom"><a href="/Z/ZC/ZCV/ZCV_00631L.djhtm">動態報導</a></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_bg" valign="bottom"><a href="/Z/ZC/ZCX/ZCX_00631L.djhtm">個股速覽</a></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_bg" valign="bottom"><a href="/Z/ZC/ZCX/ZCXFUBON_00631L.djhtm">個股總覽</a></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu1');">公開說明書</div><span class="SubMenuNoDisp" id="SubMenu1"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_A.djhtm">公司業務範圍</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_B.djhtm">市場分析</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_C.djhtm">產銷概況</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_D.djhtm">研發狀況</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_E.djhtm">有利不利因素</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_F.djhtm">券商評估報告</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC01/ZC010_00631L_G.djhtm">補充揭露事項</a></td></tr></tbody></table></span></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu2');">個股比較</div><span class="SubMenuNoDisp" id="SubMenu2"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC02/ZC02_00631L.djhtm">基本面</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/Z/ZC/ZC0/ZC04/ZC04_00631L.djhtm">股價表現</a></td></tr></tbody></table></span></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu3');">基本分析</div><span class="SubMenuNoDisp" id="SubMenu3"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zca/zca_00631L.djhtm">基本資料</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcb/zcb_00631L.djhtm">股本形成</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcc/zcc_00631L.djhtm">股利政策</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcd/zcd_00631L.djhtm">經營績效</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zce/zce_00631L.djhtm">獲利能力</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcg/zcg_00631L.djhtm">轉投資</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zch/zch_00631L.djhtm">營收盈餘</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zci/zci_00631L.djhtm">重大行事曆</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zc2/zc2_00631L.djhtm">產銷組合</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcz/zcza_00631L.djhtm">相關權證</a></td></tr></tbody></table></span></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu4');">籌碼分析</div><span class="SubMenuNoDisp" id="SubMenu4"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcj/zcj_00631L.djhtm">籌碼分佈</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zck/zck_00631L.djhtm">董監持股</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zc0/zc06_00631L.djhtm">董監質設</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcl/zcl_00631L.djhtm">法人持股</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcm/zcm_00631L.djhtm">集保庫存</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcn/zcn_00631L.djhtm">融資融券</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zco/zco_00631L.djhtm">主力進出</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zc0/zc07/zc07_00631L.djhtm">投信持股</a></td></tr></tbody></table></span></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu5');">財務分析</div><span class="SubMenuNoDisp" id="SubMenu5"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcp/zcp_00631L.djhtm">資產負債簡表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcp/zcpa/zcpa_00631L.djhtm">資產負債季表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcp/zcpb/zcpb_00631L.djhtm">資產負債表年表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcq/zcq_00631L.djhtm">損益季表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcq/zcqa/zcqa_00631L.djhtm">損益年表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcr/zcr_00631L.djhtm">財務比率季表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcr/zcra/zcra_00631L.djhtm">財務比率年表</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zc3/zc3_00631L.djhtm">現金流量表</a></td></tr></tbody></table></span></td></tr><tr><td height="1" align="Center" colspan="2"><img width="214" height="1" src="/images/Line.jpg" border="0"></td></tr><tr><td valign="TOP"><table width="16" height="32" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="16" class="UprMenuClass"><img width="16" height="16" src="/images/arrow1.jpg" border="0"></td></tr></tbody></table></td><td width="100%" height="22" align="Left" valign="bottom"><div class="inv_lmenu_bg" style="cursor: pointer;" onclick="JAVASCRIPT:SubMenuExpand('SubMenu6');">技術分析</div><span class="SubMenuDisp" id="SubMenu6"><table width="100%" bordercolor="green" border="0" cellspacing="1" cellpadding="1"><tbody><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcw/zcw1_00631L.djhtm">Ｋ線圖</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zcw/zcwg/zcwg_00631L.djhtm">分價圖</a></td></tr><tr><td width="16" class="SubMenuClass"><img width="16" height="16" src="/images/arrow2.jpg" border="0"></td><td width="100%" height="22" align="Left" class="inv_lmenu_subbg" valign="bottom"><a href="/z/zc/zc0/zc08/zc08_00631L.djhtm">分時走勢圖</a></td></tr></tbody></table></span></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<script language="javascript"><!--
+ SetLeftMenu(4,'00631L')
+//--></script>
+</td><td width="99%" valign="top">
+<script language="javascript"><!--
+if(typeof(ContentCenterBegin) == 'function'){ 	ContentCenterBegin();
+ } 
+//--></script><br>
+
+<table width="700" border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+
+<td align="CENTER">
+
+
+
+<form name="S">
+<table border="0"><tbody><tr><td width="550" class="t0" valign="top">
+<table width="100%" class="t01" border="0" cellspacing="1" cellpadding="1">
+<tbody><tr><td class="t10">
+元大台灣50正2(00631L)
+Ｋ線圖&nbsp;&nbsp;
+<select name="T" onchange="ChartChange();"><option value="D">日線</option>
+<option value="W">週線</option>
+<option value="M">月線</option>
+<option value="5">5分鐘</option>
+<option value="10">10分鐘</option>
+<option value="30">30分鐘</option>
+<option value="60">60分鐘</option>
+</select>
+<div class="t11">
+
+	<script language="javascript" src="/z/js/zcwjs.djjs"></script>
+	<script language="javascript" src="/z/js/rollover.js"></script>
+	<script language="javascript">
+	<!--
+	var zcwPrev = new rollover('zcwPrev', 'zcw_Prev', 51, 20, '/z/images/prev_a.gif', '/z/images/prev_b.gif', 'javascript:Navigate(\'00631L\', false);', '', '上一檔', false, '');
+	var zcwNext = new rollover('zcwNext', 'zcw_Next', 51, 20, '/z/images/next_a.gif', '/z/images/next_b.gif', 'javascript:Navigate(\'00631L\',  true);', '', '下一檔', false, '');
+
+	document.write(zcwPrev.genTag()); 
+	document.write(' ');
+	document.write(zcwNext.genTag()); 		
+	//-->
+	</script><a onmouseover="rollover_swapimg('zcw_Prev', zcwPrev.imgB)" onmouseout="rollover_swapimg('zcw_Prev', zcwPrev.imgA)" href="javascript:Navigate('00631L', false);"><img name="zcw_Prev" width="51" height="20" align="absmiddle" alt="上一檔" src="/z/images/prev_a.gif" border="0" vspace="0" hspace="0" valign="middle"></a> <a onmouseover="rollover_swapimg('zcw_Next', zcwNext.imgB)" onmouseout="rollover_swapimg('zcw_Next', zcwNext.imgA)" href="javascript:Navigate('00631L',  true);"><img name="zcw_Next" width="51" height="20" align="absmiddle" alt="下一檔" src="/z/images/next_a.gif" border="0" vspace="0" hspace="0" valign="middle"></a>
+</div>
+</td></tr>
+<tr><td width="100%" class="t3n0">
+<div class="AdapterK" id="SysJustWebGraphDIV" style="margin: 0px auto; width: 550px; min-height: 600px;" mcht="adp_1"><div tabindex="0" class="FundView opsView1 opsPC" style="width: 550px; min-height: 530px;"><div class="opsPoster" style="display: none;"></div><div class="opsView"><div class="opsHead opsWrap"><div class="opsNote" style="max-width: 430px;"><div class="notehead" style="display: inline-block;"><span>股價2020/10/12</span>　<span>開67.80</span>　<span>高68.50</span>　<span>低67.35</span>　<span>收67.65<span class="sign" style="color: rgb(255, 0, 0);">↑</span>元</span>　<span>量5,961張</span>　<span class="AdapterK-change-up">+0.5(+0.74%)</span></div><div class="notebody nopad" style="display: inline-block;"></div></div><div class="opsBar "><div class="opsSettingBtn"><div></div></div><div class="opsPenBegin"><div></div></div><div class="opsPenClear"><div></div></div><div class="opsPenFinish"><div></div></div></div></div><div class="opsCanvas" style="height: 530px;"><canvas width="550" height="530" class="opsChart"></canvas><div class="opsFgTxt" style="width: 523px; height: 530px;"><div class="opsSubFg" id="fg0" style="left: 10px;"><div class="box"><div class="box"><span style="color: rgb(255, 0, 255);">SMA5&nbsp;65.88</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span></div></div><div class="box"><div class="box"><span style="color: rgb(19, 181, 177);">SMA20&nbsp;64.71</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span></div></div><div class="box"><div class="box"><span style="color: rgb(143, 195, 31);">SMA60&nbsp;63.89</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span></div></div><div class="box"><div class="box"><span style="color: rgb(0, 210, 255);">SMA120&nbsp;55.62</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span></div></div><div class="box"><div class="box"><span style="color: rgb(255, 24, 104);">SMA240&nbsp;51.31</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span></div></div></div><div class="opsSubFg" id="fg1" style="left: 10px; top: 253px;"><div class="box"><div class="box"><span style="color: rgb(255, 135, 51);">成交量&nbsp;5961</span><span class="sign" style="color: rgb(0, 128, 0);">↓</span><span style="color: rgb(255, 135, 51);">張</span></div></div><div class="box"><div class="box"><span style="color: rgb(30, 160, 255);">MA5&nbsp;5542</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span><span style="color: rgb(30, 160, 255);">張</span></div></div><div class="box"><div class="box"><span style="color: rgb(166, 106, 31);">MA10&nbsp;6574</span><span class="sign" style="color: rgb(0, 128, 0);">↓</span><span style="color: rgb(166, 106, 31);">張</span></div></div></div><div class="opsSubFg" id="fg2" style="left: 10px; top: 380px;"><div class="box"><div class="box"><span style="color: rgb(255, 135, 51);">K(9,3)&nbsp;84.35</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span><span style="color: rgb(255, 135, 51);">%</span></div></div><div class="box"><div class="box"><span style="color: rgb(30, 160, 255);">D(9,3)&nbsp;69.64</span><span class="sign" style="color: rgb(255, 0, 0);">↑</span><span style="color: rgb(30, 160, 255);">%</span></div></div></div></div><div class="opsSensor" style="width: 550px; height: 530px;" unselectable="on"></div><div class="opsTip" style="width: 550px; height: 530px;"><div class="opsTipRange" style="left: 10px; top: 1px; width: 549px; height: 520px;"><div class="opsTipLine" style="left: 507px; height: 505px; display: block;"></div><div class="opsTipCross" style="width: 512px;"></div><div class="opsTipMsg"><div class="opsTipMsgBg"></div><div class="opsTipMsgTxt"></div></div></div></div><div class="opsDraft" style="width: 550px; height: 530px;"><div class="opsDrfRng" style="left: 10px; top: 0px; width: 530px; height: 506px;"><div class="opsDrfX" style="height: 505px;"></div><div class="opsDrfY" style="width: 529px;"></div><div class="opsDrfMsgX"></div><div class="opsDrfMsgY"></div><div class="opsDrfPoint"><div></div></div></div><canvas width="530" height="250" class="opsDrfChart" style="left: 10px; top: 0px;"></canvas><canvas width="530" height="250" class="opsDrfFore" style="left: 10px; top: 0px;"></canvas></div></div></div></div><div class="FundView opsView2 opsPC" style="width: 550px; min-height: 70px;"><div class="opsCanvas"><canvas width="550" height="70" class="opsChart"></canvas><div class="opsSlider" style="width: 550px; height: 70px;" unselectable="on"><div class="opsSldMsgL" style="top: 54px;"></div><div class="opsSldMsgR" style="top: 54px;"></div><div class="opsSldRange" style="left: 10px; top: 1px; width: 513px; height: 51px; overflow: hidden;" unselectable="on"><div class="opsSldRngL" style="width: 426px; height: 49px; right: 87px;" unselectable="on"></div><div class="opsSldBlock" style="left: 426px; width: 87px; height: 49px; display: inline-block;" unselectable="on"></div><div class="opsSldRngR" style="left: 513px; width: 0px; height: 49px;" unselectable="on"></div><div class="opsSldLeft" style="left: 386px; height: 49px;" unselectable="on"></div><div class="opsSldRight" style="left: 513px; height: 49px;" unselectable="on"></div></div></div></div></div></div>
+</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</form>
+
+<script language="JavaScript"><!--
+	var $DJWebGraph1;
+	var sRenderTo = 'SysJustWebGraphDIV';
+	var g_IndexAry = new Array(10);
+	var g_idx;
+
+	if (typeof $ != 'undefined') {
+		$(document).ready(function () {
+			ChartChange();  
+		});
+	}
+
+	// 因為K線頻率的資料筆數不見得都會相同, 為避免切換頻率時候,查價線會跳離最右邊, 故改為此做法
+	function CreateDraw() {
+		//if (!!$DJWebGraph) {
+			$DJWebGraph1 = new $DJWebGraph();
+			$DJWebGraph1.CallBack = GetBcdData;
+			$DJWebGraph1.CreateGraphObject({
+				'CanvasClass': 'tradek', //表示為 K線圖
+				'ID': 'tradekline', // K線圖的ID設定
+				'Width': '550',
+				'Height': '600',
+				'RenderTo': sRenderTo,
+				'Title': ['股價', '成交量'],
+				'Unit': ['D', '元', '張'],
+				'TradeKSTBTN': '1',
+				'TradeKDraft': '1',
+				'SliderSize':'72'
+				//'BCDUrl': '/Z/ZC/ZCW/CZKC1.djbcd?a=00631L&b=D&c=1440'
+			})
+		//}
+
+			$('#SysJustIFRAMEDIV').height('650');
+	}
+
+	// Canvas K線圖部分, 要將資料檔用 String 方式(空白分隔) 進行設定
+	function GetBcdData(data) {
+		var str = '';
+		var kk = 0;
+		var sCount = 6;
+		var tmpObj;
+
+		if (!!data.length) {
+			if (data.toLowerCase().indexOf('<p>') != -1) {
+				$DJWebGraph1.SetPoster("無資料");
+			}
+			else {
+				switch(g_idx){
+					case 'D':
+						g_IndexAry[1] = data;
+						break;
+					case 'W':
+						g_IndexAry[2] = data;
+						break;
+					case 'M':
+						g_IndexAry[3] = data;
+						break;
+					case 'A':
+						g_IndexAry[4] = data;
+						break;
+					//case '1':
+					//	g_IndexAry[5] = data;
+					//	break;
+					case '5':
+						g_IndexAry[6] = data;
+						break;
+					case '10':
+						g_IndexAry[7] = data;
+						break;
+					//case '15':
+					//	 g_IndexAry[8] = data;
+					//	 break;
+					case '30':
+						g_IndexAry[9] = data;
+						break;
+					case '60':
+						g_IndexAry[10] = data;
+						break;
+				}
+
+				var arrData = data.split(' ');
+
+			for (var i = 0; i < arrData.length; i++) {
+				if (str != '')
+					str = str + ' ';
+				str = str + arrData[i];
+			}
+
+			$DJWebGraph1.ClearKSubParam();
+			$DJWebGraph1.SetGraphBcd(str);
+
+			// 將 融資融券 等其他來自資料庫的指標加入設定
+			if (typeof (g_oStock_K_SubParam) != 'undefined') {
+				tmpObj = g_oStock_K_SubParam;
+				if (arrData.length > 6) {
+						for (var ct = 1; ct <= 13; ct++) {
+							var key = 'k' + (ct).toString();
+
+							switch (ct) {
+								case 1:
+								case 2:
+								case 3:
+								case 4:
+								case 5:
+								case 10:
+								case 11:
+								case 12:
+								case 13:
+									$DJWebGraph1.SetKSubParam(key, tmpObj[key], arrData[ct + 5]);
+									break;
+								case 6:
+								case 7:
+								case 8:
+								case 9:
+									$DJWebGraph1.SetKSubParam(key, tmpObj[key], arrData[ct + 13]);
+									break;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+			
+
+	function ChartChange()
+	{
+		var tmpData;
+		var sUrl;
+
+		if (typeof (document.S) != 'undefined') {
+			var idx = document.S.T.options[document.S.T.selectedIndex].value;
+			g_idx = idx;
+
+			sUrl = '/z/BCD/czkc1.djbcd?a=00631L&b=' + idx + '&c=2880&E=1&ver=5';
+			CreateDraw();
+
+			switch (idx) {
+				case 'D':
+					tmpData = g_IndexAry[1];
+					break;
+				case 'W':
+					tmpData = g_IndexAry[2];
+					break;
+				case 'M':
+					tmpData = g_IndexAry[3];
+					break;
+				case 'A':
+					tmpData = g_IndexAry[4];
+					break;
+				case '1':
+					tmpData = g_IndexAry[5];
+					break;
+				case '5':
+					tmpData = g_IndexAry[6];
+					break;
+				case '10':
+					tmpData = g_IndexAry[7];
+					break;
+				case '15':
+					tmpData = g_IndexAry[8];
+					break;
+				case '30':
+					tmpData = g_IndexAry[9];
+					break;
+				case '60':
+					tmpData = g_IndexAry[10];
+					break;
+			}
+
+			if (typeof (tmpData) == 'undefined' || tmpData == '') {
+				if (!!$DJWebGraph && !!$DJWebGraph1.GraphObj) {
+					$DJWebGraph1.HttpGetData(sUrl, GetBcdData);
+				}
+			}
+			else {
+				GetBcdData(tmpData);
+			}
+		}
+	}
+	
+	function changeStkID()
+	{
+		var sUrl;
+		stk = document.S.stk.options[document.S.stk.selectedIndex].value;
+		var idx = document.S.T.options[document.S.T.selectedIndex].value;
+		sUrl = '/z/zc/zcw/zcw1.djhtm?a=' + stk ;
+		self.location = sUrl;
+	}
+// --></script>
+<script language="javascript"><!--
+if(typeof(ContentCenterEnd) == 'function'){ 	ContentCenterEnd();
+ } 
+//--></script><br><br>
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+
+</td><td align="right" valign="top">
+<script language="javascript" src="/z/js/SR.js"></script>
+</td></tr>
+<tr><td valign="top" colspan="3">
+<script language="javascript" src="/z/js/SD.js"></script><div id="SysJustCopyRightContainer"></div>
+
+</td></tr></tbody></table>
+</div>
+
+
+</body></html>
